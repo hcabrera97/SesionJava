@@ -25,6 +25,7 @@ public class Datosarchivo {
     public Datosarchivo() {
         try {
             this.fos = new FileOutputStream("C:\\temp\\agend.dat");
+            
         } catch (FileNotFoundException ex) {
             //Logger.getLogger(Datosarchivo.class.getName()).log(Level.SEVERE, null, ex);
             System.out.println("No se encuentra el archivo, debe de estar en la unidad C y el directorio temp \n el nombre del archivo debe de ser agenda.dat");
