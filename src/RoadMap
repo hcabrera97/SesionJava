@@ -1,0 +1,19 @@
+
+Dos opciones: Agenda y Tareas
+
+Agenda: Almacenar datos de las personas de contacto (Telefono, correo electronico, id facebook, id instagram, nombre completo
+                                                     Fecha nacimiento, Organizacion, titulo)
+                                                     Fecha cuando se dio de alta una persona
+
+Insertar, actualizar, busqueda, listar, borrar.
+Almacenar en un archivo plano
+Indexar (Automatizada o controlada por el programa)
+
+
+Tareas: Registrar tarea a realizar (Id tarea, nombre, fecha inicio, fecha finalizacion, estado, porcentaje de avance, 
+                                    Responsable (Debe de ser una persona de la agenda), accion a realizar )
+Insertar, actualizar, busqueda, listar, listar por estado, listar por porcentaje de avance, cambiar el estado
+Almacenar en un archivo plano
+Indexar  (Automatizada o controlada por el programa)
+
+
